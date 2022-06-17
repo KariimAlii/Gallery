@@ -1,0 +1,18 @@
+body{margin:0;
+    background:no-repeat url("https://images.unsplash.com/photo-1646313522505-cf1e3c05b288?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1514&q=80"); 
+    background-size: cover;
+    }
+    
+    nav{
+      letter-spacing:0.2em;
+      font-family: 'Fredericka the Great', cursive;
+      font-size:3.5em;
+      border-bottom:2px black solid;
+      width:80%;
+      margin: 0.1em 0 0.1em calc(10%/6);
+      
+    }
+    img {
+      width:30% ;
+      margin:calc(10%/6) ;
+    }
